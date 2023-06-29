@@ -7,3 +7,7 @@
 lunch twrp_m33x-eng
 make recoveryimage
 ```
+Contributors:
+Gabriel2392
+mohammand92
+twrpdtgen
