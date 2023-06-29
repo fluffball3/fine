@@ -1,9 +1,9 @@
-## Recovery Device Tree for the Samsung Galaxy A33 5G (Exynos)
+## Recovery Device Tree for the Samsung Galaxy M33 5G (Exynos)
 
 ## How-to compile it:
 
 ```sh
 . build/envsetup.sh
-lunch twrp_a33x-eng
+lunch twrp_m33x-eng
 make recoveryimage
 ```
